@@ -1,0 +1,12 @@
+C:\Users\William Alvarado\Desktop\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\bin\Debug\Sistema-Ventas-William-Alvarado.exe.config
+C:\Users\William Alvarado\Desktop\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\bin\Debug\Sistema-Ventas-William-Alvarado.exe
+C:\Users\William Alvarado\Desktop\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\bin\Debug\Sistema-Ventas-William-Alvarado.pdb
+C:\Users\William Alvarado\Desktop\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\obj\Debug\Sistema-Ventas-William-Alvarado.csproj.AssemblyReference.cache
+C:\Users\William Alvarado\Desktop\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\obj\Debug\Sistema-Ventas-William-Alvarado.csproj.SuggestedBindingRedirects.cache
+C:\Users\William Alvarado\Desktop\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\obj\Debug\Sistema_Ventas_William_Alvarado.Properties.Resources.resources
+C:\Users\William Alvarado\Desktop\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\obj\Debug\Sistema-Ventas-William-Alvarado.csproj.GenerateResource.cache
+C:\Users\William Alvarado\Desktop\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\obj\Debug\Sistema-Ventas-William-Alvarado.csproj.CoreCompileInputs.cache
+C:\Users\William Alvarado\Desktop\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\obj\Debug\Sistema-Ventas-William-Alvarado.exe
+C:\Users\William Alvarado\Desktop\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\obj\Debug\Sistema-Ventas-William-Alvarado.pdb
+C:\Users\William Alvarado\Desktop\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\obj\Debug\Sistema_Ventas_William_Alvarado.MenuPrincipal.resources
+C:\Users\William Alvarado\Desktop\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\Sistema-Ventas-William-Alvarado\obj\Debug\Sistema_Ventas_William_Alvarado.Registro_de_Productos.resources
